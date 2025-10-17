@@ -1,3 +1,4 @@
+//Carson Kim - 10/16/25 - This program suggests a pet based on user input of favorite color, season, and name.
 import java.util.Scanner;
 //scanner to get user input
 public class PetSelector {
