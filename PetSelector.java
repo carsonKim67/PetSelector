@@ -108,5 +108,6 @@ public class PetSelector {
         System.out.println("Your perfect pet is: " + pet);
 
         input.close();
+        //couldnt figure out how to make it run even when wrong input is inputted
     }
 }
